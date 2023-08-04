@@ -1,4 +1,4 @@
-module test
+module nostrdecord
 
 go 1.20
 
